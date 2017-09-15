@@ -20,7 +20,7 @@ pip install psycopg2
 ```
 - execute code
 ```bash
-logs_analysis.py
+python logs_analysis.py
 ```
 
 ## Version
